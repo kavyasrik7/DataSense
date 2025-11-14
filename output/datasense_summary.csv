@@ -1,0 +1,6 @@
+rank,pattern,count,example,levels
+1,User login failed for <NUM>,2,User login failed for 987654,ERROR:2
+2,NullPointerException at com.example.Service.doWork(Service.java:<NUM>),1,NullPointerException at com.example.Service.doWork(Service.java:42),ERROR:1
+3,Disk space low on <PATH>,1,Disk space low on /var/lib/docker,WARN:1
+4,User <NUM> logged in from <NUM>.<NUM>.<NUM>.<NUM>,1,User 123 logged in from 192.168.1.5,INFO:1
+5,Request <HEX> processed,1,Request 0x1a2b3 processed,INFO:1

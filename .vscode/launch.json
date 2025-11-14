@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch DataSense",
+      "request": "launch",
+      "mainClass": "com.datasense.Main",
+      "projectName": ""
+    }
+  ]
+}

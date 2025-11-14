@@ -1,0 +1,6 @@
+2025-11-10 14:02:15 INFO User 123 logged in from 192.168.1.5
+2025-11-10 14:05:10 ERROR NullPointerException at com.example.Service.doWork(Service.java:42)
+2025-11-10 14:06:01 WARN Disk space low on /var/lib/docker
+2025-11-10 14:07:33 ERROR User login failed for 987654
+2025-11-10 14:07:35 ERROR User login failed for 18293
+2025-11-10 14:08:00 INFO Request 0x1a2b3 processed
